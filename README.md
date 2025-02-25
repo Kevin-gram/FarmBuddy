@@ -53,14 +53,12 @@ To run **Farm Buddy** locally, follow the steps below:
 git clone https://github.com/yourusername/farm-buddy.git
 cd farm-buddy
 ````
-
+```
+npm start
+The application should now be running locally! The backend will be accessible at http://localhost:8000, and the frontend will run at http://localhost:3000.
+```
 ### here are example questions you can ask to it 
 
 ![image](https://github.com/user-attachments/assets/aaadc5b8-276a-4eba-97bc-35baf6a13cea)
 
-bash
-Copy
-Edit
-cd frontend
-npm start
-The application should now be running locally! The backend will be accessible at http://localhost:8000, and the frontend will run at http://localhost:3000.
+
